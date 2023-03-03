@@ -4,6 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=06A40F&vCenter=true&multiline=true&width=435&lines=I'm+student+of+school+21+by+Sber!)](https://git.io/typing-svg)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EdemT&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EdemT)](https://github.com/KnlnKS/leetcode-stats)
 
 
