@@ -7,3 +7,4 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EdemT)](https://github.com/KnlnKS/leetcode-stats)
 
 
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/ew0s/ew0s/output/github-contribution-grid-snake.svg) -->
